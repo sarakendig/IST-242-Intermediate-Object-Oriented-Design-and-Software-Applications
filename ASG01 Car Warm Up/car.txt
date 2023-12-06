@@ -1,0 +1,5 @@
+Model: volvo
+Release Year: 1992
+Trim(s): [dx]
+Car Type: Van
+MPG: 25.0
